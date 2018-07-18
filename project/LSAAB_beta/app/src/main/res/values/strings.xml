@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">门控管家</string>
+    <string name="title_activity_main">门老爷科技</string>
+    <string name="title_drawerlayout">lafaya.com.cn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="setting_info_modeset">点击进入运行模式设置，设置后通过按下保存键进行保存。</string>
+    <string name="setting_info_paraset">点击进入自动门参数设置，设置后通过按下保存键进行保存。</string>
+    <string name="setting_info_maintenanceset">进入系统维护，选择后按提示进行操作。</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="string_copyright">Copyright©2018 Lafaya All Rights Reserved.</string>
+    
+    <string name="mode_normal_info">旋转门保持旋转状态，当无人经过旋转门时，旋转门自动切换到节能状态，慢速旋转运行，有人经过时恢复正常速度旋转。</string>
+    <string name="mode_winter_info">在有人需要通行时，旋转门保持正常速度旋转，当无人经过时，旋转门旋转到关门位置后停止旋转，最大限度达到保温节能效果，一般在冬天才选择该运行模式。</string>
+    <string name="mode_summer_info">在有人需要通行时，旋转门保持正常速度旋转，当无人经过时，旋转门旋转到开门位置后停止旋转，可以快速通过并实现节能效果，一般在夏天才选择该运行模式。</string>
+    <string name="mode_manual_info">旋转门停止旋转，此状态下可通过操作残障自动门转动旋转门，此模式为维护模式或清洁模式。</string>
+    <string name="mode_exit_info">旋转门不转动，中间门单向通行状态，此模式下只允许室内侧人员通过，室外侧人员不能通过。</string>
+    <string name="mode_auto_info">旋转门不转动，中间门自动状态，仅使用中间门，当需要通过时，中间门自动打开，通过后自动关闭。</string>
+    <string name="mode_open_info">旋转门不转动，中间门保持常开状态，此模式下旋转门和中间门均保持打开状态，可用于室内外空气通风对流。</string>
+    <string name="mode_check_info">旋转门自我检测状态，该模式主要用于内部测试调试使用，旋转门以正常速度运行，在相应停车位停车5秒，同时门翼和平滑门做出相应的动作，通过危险区时减速慢行，响应所有信号</string>
+    <string name="mode_close_info">旋转门不转动，中间门保持关闭状态，在使用此模式时，应配有门禁和开门开关，通过操作门禁或开门开关启动中间门。</string>
+
+    <string name="restart_info">系统将重新启动</string>
+    <string name="reset_info">系统将恢复出厂设置，所有数据设置的数据将丢失。</string>
+
+
+    <string name="automaticdoorID">01</string>
+    <string name="revolingID">04</string>
+    <string name="wingleftID">05</string>
+    <string name="wingrightID">06</string>
+
+</resources>
